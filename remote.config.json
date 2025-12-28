@@ -10,6 +10,10 @@
             {
                 "url": "https://xjp.sub-rusboost.sbs",
                 "description": "新加坡中转"
+            },
+            {
+                "url": "https://panel.rusboost.com",
+                "description": "直连"
             }
         ]
     }
