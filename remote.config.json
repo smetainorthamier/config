@@ -1,0 +1,16 @@
+{
+    "_comment": "panel server config",
+    "panelType": "xboard",
+    "panels": {
+        "mihomo": [
+            {
+                "url": "https://ks.sub-rusboost.sbs:8865",
+                "description": "喀山中转"
+            },
+            {
+                "url": "https://xjp.sub-rusboost.sbs:8865",
+                "description": "新加坡中转"
+            }
+        ]
+    }
+}
