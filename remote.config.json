@@ -8,7 +8,7 @@
                 "description": "喀山中转"
             },
             {
-                "url": "https://sgp.sub-rusboost.sbs",
+                "url": "https://sgp.sub-rusboost.sbs:8868",
                 "description": "新加坡中转"
             },
             {
