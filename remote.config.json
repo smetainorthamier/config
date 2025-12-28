@@ -4,11 +4,11 @@
     "panels": {
         "mihomo": [
             {
-                "url": "https://ks.sub-rusboost.sbs:8865",
+                "url": "https://ks.sub-rusboost.sbs",
                 "description": "喀山中转"
             },
             {
-                "url": "https://xjp.sub-rusboost.sbs:8865",
+                "url": "https://xjp.sub-rusboost.sbs",
                 "description": "新加坡中转"
             }
         ]
